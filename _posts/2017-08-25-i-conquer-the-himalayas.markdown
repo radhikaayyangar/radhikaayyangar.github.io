@@ -12,7 +12,4 @@ published: true
 ---
 Games I have worked on in the past
 
-![Painted Textures]({{site.baseurl}}/_posts/backgrounds.JPG)
-
-
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+![test upload]({{site.baseurl}}/asssets/img/backgrounds.JPG)
