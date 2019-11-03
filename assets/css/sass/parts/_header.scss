@@ -1,8 +1,8 @@
 .main-header {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   padding: 15px 0;
-  background-color: $white;
-  box-shadow: 0px -5px 15px rgba(0,0,0,.3);
+  background-color: $rads-gray;
+  box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.3);
 
   .header-flex {
     display: flex;
@@ -17,7 +17,7 @@
       text-transform: uppercase;
       font-size: 27px;
       font-weight: 300;
-      color: $dark-purple;
+      color: $white;
     }
   }
 }
@@ -29,7 +29,7 @@
   z-index: 10;
   width: 300px;
   height: 100%;
-  background-color: $white;
+  background-color: $rads-gray;
   padding: 25px 30px;
   transform: translate3d(-300px, 0, 0);
   ul {
@@ -46,9 +46,9 @@
         text-transform: uppercase;
         font-weight: 400;
         font-size: 18px;
-        color: $dark-purple;
+        color: $white;
         &:hover {
-          opacity: .8;
+          opacity: 0.8;
           color: $dark-pink;
         }
       }
@@ -67,15 +67,17 @@
 }
 
 .menu-icon,
-.menu-icon-close,
 .search-icon a,
 .search-icon-close {
   cursor: pointer;
   font-size: 18px;
-  color: $dark-purple;
-  transition: all .4s;
+  color: $white;
+  transition: all 0.4s;
   padding: 10px;
   &:hover {
-    opacity: .8;
+    opacity: 0.8;
   }
+}
+.menu-icon-close {
+  visibility: hidden;
 }
