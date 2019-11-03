@@ -45,3 +45,6 @@ plugins:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/", "tags"]
+
+prose:
+  media: 'assets/img'
