@@ -1125,10 +1125,19 @@ pre code {
   font-size: 14px;
   color: #ffffff;
   margin: 0 0 10px;
+  opacity: 0;
 }
 
-.post-card .post-card-body .post-card-title:hover {
+.is-active .post-card .post-card-body .post-card-title {
   opacity: 0.8;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+:hover > .post-card .post-card-body .post-card-title {
+  opacity: 0.8;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 .post-card .post-card-body .tag {
