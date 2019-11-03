@@ -1197,7 +1197,7 @@ pre code {
 .page-content {
   margin-top: -80px;
   margin-bottom: 100px;
-  background-color: #949494;
+  background-color: #99989a;
   padding: 20px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -1211,12 +1211,12 @@ pre code {
 }
 
 .header-page h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 400;
   font-size: 36px;
   text-align: center;
   margin: 0 0 20px;
-  color: #949494;
+  color: #141414;
 }
 
 .header-page .page-date {
@@ -1250,7 +1250,7 @@ pre code {
 }
 
 .page-footer .page-tag a:hover {
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .page-footer .page-share a {
@@ -1261,7 +1261,7 @@ pre code {
 }
 
 .page-footer .page-share a:hover {
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .recent-box {
@@ -1271,7 +1271,7 @@ pre code {
 }
 
 .recent-box .recent-title {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 400;
   color: #949494;
   text-align: center;
@@ -1285,8 +1285,8 @@ pre code {
   height: 150px;
   margin-left: 0.5%;
   margin-bottom: 0.5%;
-  -webkit-transition: all .3s;
-  transition: all .3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 .recent-box .recent-list .recent-item span {
@@ -1379,8 +1379,8 @@ pre code {
   border: none;
   border-radius: 2px;
   outline: none;
-  -webkit-transition: all .3s;
-  transition: all .3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 .newsletter .newsletter-box .subscribe-btn:hover {

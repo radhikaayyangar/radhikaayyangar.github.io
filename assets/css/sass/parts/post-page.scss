@@ -15,7 +15,7 @@
 .page-content {
   margin-top: -80px;
   margin-bottom: 100px;
-  background-color: $white;
+  background-color: $rads-light-gray;
   padding: 20px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -26,12 +26,12 @@
   position: relative;
   margin-bottom: 30px;
   h1 {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 400;
     font-size: 36px;
     text-align: center;
     margin: 0 0 20px;
-    color: $white;
+    color: $rads-gray;
   }
   .page-date {
     text-align: center;
@@ -58,7 +58,7 @@
       text-decoration: none;
       color: $dark-pink;
       &:hover {
-        opacity: .8;
+        opacity: 0.8;
       }
     }
   }
@@ -69,7 +69,7 @@
       margin-left: 10px;
       font-size: 18px;
       &:hover {
-        opacity: .8;
+        opacity: 0.8;
       }
     }
   }
@@ -80,7 +80,7 @@
   padding-bottom: 30px;
   border-bottom: 1px solid $lighten-gray;
   .recent-title {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 400;
     color: $white;
     text-align: center;
@@ -94,7 +94,7 @@
       height: 150px;
       margin-left: 0.5%;
       margin-bottom: 0.5%;
-      transition: all .3s;
+      transition: all 0.3s;
       span {
         position: absolute;
         font-size: 12px;
@@ -167,7 +167,7 @@
       border: none;
       border-radius: 2px;
       outline: none;
-      transition: all .3s;
+      transition: all 0.3s;
       &:hover {
         background-color: $dark-pink;
       }
