@@ -12,7 +12,7 @@ published: true
 ---
 insert new
 
-![ararimu]({{site.baseurl}}/assets/img/ararimu_1.jpg)![ararimu_1.jpg]({{site.baseurl}}/assets/img/ararimu_1.jpg)
+![ararimu]({{site.baseurl}}/assets/img/ararimu_1.jpg)
 
 
 
