@@ -16,7 +16,7 @@ published: true
 
 anny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
 
-![ararimu]({{site.baseurl}}/assets/img/ararimu_1.jpg)![ararimu_1.jpg]({{site.baseurl}}/assets/img/ararimu_1.jpg)
+![ararimu]({{site.baseurl}}/assets/img/ararimu_1.jpg)
 
 
 this is the description
