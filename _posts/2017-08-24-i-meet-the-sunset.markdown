@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I meet the sunset
+title: Architectural renders
 date: '2017-08-24 13:32:20 +0300'
 description: >-
   You’ll find this post in your `_posts` directory. Go ahead and edit it and
