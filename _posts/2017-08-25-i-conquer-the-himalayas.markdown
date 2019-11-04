@@ -10,7 +10,7 @@ tags: []
 author: Adam Neilson
 published: true
 ---
-![test]({{site.baseurl}}/assets/img/post-1.jpg)
+
 
 ![test]({{site.baseurl}}/assets/img/levl1stg1.png)
 
