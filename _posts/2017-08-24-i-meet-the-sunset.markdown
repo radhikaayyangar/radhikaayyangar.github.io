@@ -10,6 +10,7 @@ tags: []
 author: null
 published: true
 ---
+
 ![ararimu_1.jpg]({{site.baseurl}}/_posts/ararimu_1.jpg)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
