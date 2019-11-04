@@ -10,9 +10,11 @@ tags: []
 author: Adam Neilson
 published: true
 ---
+![post-1.jpg]({{site.baseurl}}/_posts/assets/img/post-1.jpg)
 Games I have worked on in the past
 
 ![test upload]({{site.baseurl}}/asssets/img/backgrounds.JPG)
 
-![turret texture]({{site.baseurl}}/assets/img/spike_turret.JPG)
+Add some text
 
+![turret texture]({{site.baseurl}}/assets/img/spike_turret.JPG)
