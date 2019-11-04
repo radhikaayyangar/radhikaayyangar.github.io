@@ -13,9 +13,9 @@ published: true
 MSANZ (www.msanz.com)
 
 ![ararimu]({{site.baseurl}}/assets/img/ararimu_1.jpg)
+this is the description
 
-
-
+![alpine]({{site.baseurl}}/assets/img/alpine.jpg)
 this is the description
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
