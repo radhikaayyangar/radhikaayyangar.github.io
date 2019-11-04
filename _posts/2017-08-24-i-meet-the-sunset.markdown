@@ -10,7 +10,8 @@ tags: []
 author: null
 published: true
 ---
-blah blah
+insert new
+
 ![ararimu]({{site.baseurl}}/assets/img/ararimu_1.jpg)
 
 
