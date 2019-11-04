@@ -12,6 +12,7 @@ published: true
 ---
 
 ![ararimu_1.jpg]({{site.baseurl}}/_posts/ararimu_1.jpg)
+
 this is the description
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
