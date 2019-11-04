@@ -10,14 +10,9 @@ tags: []
 author: Adam Neilson
 published: true
 ---
-
-
 ![test]({{site.baseurl}}/assets/img/levl1stg1.png)
 
-
 Games I have worked on in the past
-
-![test upload]({{site.baseurl}}/asssets/img/backgrounds.JPG)
 
 Add some text
 
