@@ -11,7 +11,8 @@ author: null
 published: true
 ---
 
-![ararimu_1.jpg]({{site.baseurl}}/_posts/ararimu_1.jpg)
+![archi1]({{site.baseurl}}/_posts/ararimu_1.jpg)
+
 
 this is the description
 
