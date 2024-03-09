@@ -1,9 +1,10 @@
 # Site settings
-title: PHOTORAMA
+title: Radhika Ayyangar
 email: ""
 description: "Photo Journal"
 url: "https://radhikaayyangar.github.io"
 baseurl: "/radhikaayyangar"
+enforce_ssl: radhikaayyangar.github.io
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
