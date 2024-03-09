@@ -1,7 +1,7 @@
 # Site settings
 title: Radhika Ayyangar
 email: ""
-description: "Photo Journal"
+description: "Radhika Ayyangar - Portfolio"
 url: "https://radhikaayyangar.github.io"
 baseurl: "/radhikaayyangar"
 enforce_ssl: radhikaayyangar.github.io
@@ -19,7 +19,7 @@ owner:
   name: Radhika Ayyangar
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: cg artist portfolio
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://radhikaayyangar.github.io/photorama/gallery/"  
-  - JOURNAL: "https://radhikaayyangar.github.io/photorama/journal/"
-  - ABOUT: "https://radhikaayyangar.github.io/photorama/about/"
+  - GALLERY: "https://radhikaayyangar.github.io/gallery/"  
+  - JOURNAL: "https://radhikaayyangar.github.io/journal/"
+  - ABOUT: "https://radhikaayyangar.github.io/about/"
 
 # All translation keys
 translations:
