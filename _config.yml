@@ -3,8 +3,7 @@ title: Radhika Ayyangar
 email: ""
 description: "Radhika Ayyangar - Portfolio"
 url: "https://radhikaayyangar.github.io"
-baseurl: "/radhikaayyangar"
-enforce_ssl: radhikaayyangar.github.io
+baseurl: "radhikaayyangar.github.io"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -34,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://radhikaayyangar.github.io/gallery/"  
-  - JOURNAL: "https://radhikaayyangar.github.io/journal/"
-  - ABOUT: "https://radhikaayyangar.github.io/about/"
+  - GALLERY: "https://radhikaayyangar.github.io/radhikaayyangar.github.io/gallery/"  
+  - JOURNAL: "https://radhikaayyangar.github.io/radhikaayyangar.github.io/journal/"
+  - ABOUT: "https://radhikaayyangar.github.io/radhikaayyangar.github.io/about/"
 
 # All translation keys
 translations:
